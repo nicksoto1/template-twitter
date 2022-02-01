@@ -6,14 +6,14 @@ import {
   Email,
   FavoriteBorder,
   Person,
-  Rocketseat,
   ExitToApp,
+  Rocketseat,
 } from '../../styles/Icons';
 
 export const Container = styled.div`
   display: none;
 
-  @media (min-width: 500px;) {
+  @media (min-width: 500px) {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
